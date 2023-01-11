@@ -1,0 +1,6 @@
+Selen,89
+Emre,45
+Ramiz,99
+Ahmet,40
+Banu,50Kerem,56
+Can,100
